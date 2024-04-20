@@ -15,6 +15,11 @@ This code performs the following tasks:
 - Evaluates the model's performance on both the training and testing datasets.
 - Saves the trained DistilBERT model for future use.
 
+## Results
+![ROC Curve](ROC.png)
+![Precision-Recall Curve](Recall.png)
+![Results](Results.png)
+
 ## Requirements
 
 - Python 3.6+
